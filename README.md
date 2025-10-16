@@ -7,4 +7,4 @@
 This project is the initial deployment challenge for the HNG13 Stage 0 DevOps track.
 It involves deploying a custom HTML page using an NGINX web server on a public cloud provider, accessible via the default HTTP port (80).
 
-**Server IP/Domain:** [Leave this blank for now, you will add it after deployment]
+**Server IP/Domain:** 3.90.111.31
